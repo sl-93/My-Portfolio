@@ -23,6 +23,6 @@ Clone the repo and install dependencies:
 git clone https://github.com/sl-93/My-Portfolio.git
 cd My-Portfolio
 npm install
-
+npm run dev
 
 
