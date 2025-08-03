@@ -7,6 +7,9 @@ const ovo = Ovo({ subsets: ['latin'], weight: ["400"] })
 export const metadata: Metadata = {
   title: 'Saeed Lotfi',
   description: 'My CV',
+    icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
