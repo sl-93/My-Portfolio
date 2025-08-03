@@ -24,7 +24,7 @@ export default function BooksStack() {
   }
 
   return (
-    <div id="hobbies" className="w-full px-[12%] scroll-mt-20 py-5">
+    <div id="hobbies" className="w-full px-[12%] scroll-mt-20 py-10">
       <h2 className="text-center text-5xl font-ovo py-4">My Hobbies</h2>
       <p className="max-w-2xl mx-auto font-ovo text-center mb-10">
         Let's explore my interests and hobbies beyond the digital realm!

@@ -31,12 +31,12 @@ const Contact = () => {
   };
   
     return (
-    <div id='contact' className='w-full px-[12%] py-5 scroll-mt-20 
+    <div id='contact' className='w-full px-[12%] py-10 scroll-mt-20 
     bg-[url("/footer-bg-color.png")] bg-no-repeat bg-center bg-[length:90%_auto]'>
         <h2 className='text-center text-5xl font-ovo'>
             Get in touch
         </h2>
-        <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-ovo'>
+        <p className='text-center max-w-2xl mx-auto mt-3 mb-10 font-ovo'>
             If you're curios about the future of AI and more broadly, science, let's talk!
             there's always more to explore together!
         </p>
