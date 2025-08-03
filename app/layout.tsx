@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Saeed Lotfi',
   description: 'My CV',
     icons: {
-    icon: "/favicon.ico",
+    icon: "/favicon-32x32.png",
   },
 }
 
